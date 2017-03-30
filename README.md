@@ -1,2 +1,2 @@
 # node-structure
-Just en experiment
+Just an experiment
