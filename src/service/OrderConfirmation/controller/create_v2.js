@@ -1,0 +1,1 @@
+module.exports = () => "createConfirmController 1";
